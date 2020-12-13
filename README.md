@@ -1,4 +1,7 @@
 # Patterns
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/InputMoe/Patterns/HEAD)
+
 Test repo for nlp patterns with spacy
 
 These 1: wir starten mit einem Schlüsselwort
